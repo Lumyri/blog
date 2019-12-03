@@ -41,8 +41,8 @@ p {
 	height: 55%;
 }
 .vidi{
-	width: 55%;
-	height: 55%;
+	width: 55% !important;
+	height: 55% !important;
 }
 .group_picture1 {
     width: 100%;
