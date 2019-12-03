@@ -11,52 +11,62 @@ p {
     line-height: 1.5em;
     margin-top: 1.4%;
 }
-.linkyboii{
-	color: white;
+
+.linkyboii {
+    color: white;
 }
-.cd-header{
-	border-top: 1px solid white;
+
+.cd-header {
+    border-top: 1px solid white;
 }
+
 .group_project {
-	position: absolute;
+    position: absolute;
     margin-top: 2%;
     color: white;
-	left: 50%;
+    left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%);
 }
+
 .titlegp {
-	position: relative;
+    position: relative;
 }
-.icon{
-	height: 45px;
-	width: 45px;
-	margin-right:10px;
+
+.icon {
+    height: 45px;
+    width: 45px;
+    margin-right: 10px;
 }
-.icon_container{
-	margin-bottom: 10px;
+
+.icon_container {
+    margin-bottom: 10px;
 }
-.pici{
-	width: 55%;
-	height: 55%;
+
+.pici {
+    width: 55%;
+    height: 55%;
 }
-.vidi{
-	width: 55%;
-	height: 55%;
+
+.vidi {
+    width: 1056px;
+    height: 650px;
 }
+
 .group_picture1 {
     width: 100%;
     height: 100%;
 }
 
-.group_detail_pic{
-	width: 55%;
-	height: 55%;
+.group_detail_pic {
+    width: 55%;
+    height: 55%;
 }
-.icons{
-	 font-family: "Ubuntu", sans-serif;
+
+.icons {
+    font-family: "Ubuntu", sans-serif;
 }
-	
+
 .description_block {
     width: 40%;
     margin-right: 3%;
@@ -65,7 +75,7 @@ p {
 }
 
 .project_block {
-    margin-top: 0.2%; 
+    margin-top: 0.2%;
     width: 100%;
     height: 60%;
 }
@@ -75,7 +85,7 @@ p {
 }
 
 .slider {
-	/*margin-top: -2%;*/
+    /*margin-top: -2%;*/
     width: 100%;
     overflow: hidden;
     text-align: center;
@@ -97,8 +107,8 @@ p {
 
     scroll-behavior: smooth;
     -webkit-overflow-scrolling: touch;
-	
-	margin-top: 1%;
+
+    margin-top: 1%;
 }
 
 .slides > div {
@@ -108,9 +118,9 @@ p {
     height: 100%;
     margin-right: 50px;
     border-radius: 10px;
-   /* transform-origin: center center;
-    transform: scale(1);
-    transition: transform 0.5s;*/
+    /* transform-origin: center center;
+     transform: scale(1);
+     transition: transform 0.5s;*/
     position: relative;
 
     display: flex;
@@ -140,6 +150,7 @@ p {
 
 .slider > .clickies:active {
     top: 1px;
+    color:white;
 }
 
 .slider > .clickies:focus {
