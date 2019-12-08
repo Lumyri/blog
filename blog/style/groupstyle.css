@@ -46,8 +46,13 @@ p {
 .pici {
     width: 55%;
     height: 55%;
+	/*max-width: 1056px;
+	max-height: 704px;*/
 }
-
+.bigpici{
+	width: 52%;
+    height: 52%;
+}
 .vidi {
     width: 1056px;
     height: 650px;
